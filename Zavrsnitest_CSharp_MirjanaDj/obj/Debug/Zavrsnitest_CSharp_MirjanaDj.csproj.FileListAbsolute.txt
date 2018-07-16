@@ -1,0 +1,7 @@
+C:\Users\Djuric\source\repos\Zavrsnitest_CSharp_MirjanaDj\Zavrsnitest_CSharp_MirjanaDj\bin\Debug\Zavrsnitest_CSharp_MirjanaDj.exe.config
+C:\Users\Djuric\source\repos\Zavrsnitest_CSharp_MirjanaDj\Zavrsnitest_CSharp_MirjanaDj\bin\Debug\Zavrsnitest_CSharp_MirjanaDj.exe
+C:\Users\Djuric\source\repos\Zavrsnitest_CSharp_MirjanaDj\Zavrsnitest_CSharp_MirjanaDj\bin\Debug\Zavrsnitest_CSharp_MirjanaDj.pdb
+C:\Users\Djuric\source\repos\Zavrsnitest_CSharp_MirjanaDj\Zavrsnitest_CSharp_MirjanaDj\obj\Debug\Zavrsnitest_CSharp_MirjanaDj.csprojAssemblyReference.cache
+C:\Users\Djuric\source\repos\Zavrsnitest_CSharp_MirjanaDj\Zavrsnitest_CSharp_MirjanaDj\obj\Debug\Zavrsnitest_CSharp_MirjanaDj.csproj.CoreCompileInputs.cache
+C:\Users\Djuric\source\repos\Zavrsnitest_CSharp_MirjanaDj\Zavrsnitest_CSharp_MirjanaDj\obj\Debug\Zavrsnitest_CSharp_MirjanaDj.exe
+C:\Users\Djuric\source\repos\Zavrsnitest_CSharp_MirjanaDj\Zavrsnitest_CSharp_MirjanaDj\obj\Debug\Zavrsnitest_CSharp_MirjanaDj.pdb
